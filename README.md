@@ -1,2 +1,2 @@
 # JWT-Token
- Frontend using React Backend using Django
+ Frontend using React & Backend using Django
